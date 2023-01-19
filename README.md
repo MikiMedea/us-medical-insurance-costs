@@ -1,6 +1,6 @@
 # us-medical-insurance-costs
 
-Project Overview
+Project Overview:
 
 For this project, you will be investigating a medical insurance costs dataset in a .csv file using the Python skills that you have developed.
 You are tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data!
